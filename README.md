@@ -2,6 +2,7 @@
 - 👀 I’m interested in all things about IT. Java, Linux, Devops, Web, UI, AI, and etc. It makes me happy to learn and share them.
 - 🌱 I’m currently learning Web Design, such as HTML, CSS, Javascript...
 - 💞️ Projects I have done is here:
+  - [kanjian.la](https://kanjian.la) a navigation site
   - [Seven's Blog](https://blog.diqigan.cn) My Personal Blog
   - [小柒的网络收藏夹](https://bookmark.diqigan.cn/) execllent websites that i want to share with you
   - [Intellij IDEA 最佳实践](https://idea.diqigan.cn/) how to make Intellij IDEA better
